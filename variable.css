@@ -1,0 +1,10 @@
+:root{
+    --online:#a7db0a;
+    --my-mssg:#ae4e00;
+    --text-light:#061fc5;
+    --text-dark:#51425d;
+    --selected-chat:#F5F6FA;
+    --border:#F1F1F3;
+    --text-white:rgba(240, 235, 235, 0.903);
+    --background-img:url("https://i.pinimg.com/originals/f5/05/24/f50524ee5f161f437400aaf215c9e12f.jpg");
+}
