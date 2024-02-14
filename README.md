@@ -8,8 +8,8 @@ Integration of JSON data for chat content
 Utilization of Bootstrap for responsive layout
 
 ## **Project Design**
-![chat interface](Screenshot(1).png)
-![chat interface](Screenshot(2).png)
+![Screenshot](https://github.com/pratiksh21/chat_application/blob/main/Screenshot%20(1).png)
+![Screenshot(2).png](https://github.com/pratiksh21/chat_application/blob/main/Screenshot%20(2).png)
 
 # Usage
 To use the application, follow these steps:
